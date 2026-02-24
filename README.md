@@ -1,4 +1,4 @@
-# Abdullah Tahir
+# Abdul Saboor
 ### Full-Stack Software Engineer • Rails • React • Node
 
 > Building reliable systems, clean interfaces, and scalable products  
