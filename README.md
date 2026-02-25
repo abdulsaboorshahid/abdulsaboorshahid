@@ -1,5 +1,5 @@
 # Abdul Saboor
-### Full-Stack Software Engineer • Rails • React • Node
+### Senior Full Stack Engineer • Rails • React • Node
 
 > Building reliable systems, clean interfaces, and scalable products  
 > **Remote-first | Open to contract & long-term work**
