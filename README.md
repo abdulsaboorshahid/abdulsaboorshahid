@@ -7,13 +7,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-tahir-a30565214/">
+  <a href="https://www.linkedin.com/in/abdul-saboor-a93b681b1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~016f9015820fed4ea5">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="mailto:abtahir861@gmail.com">
+  <a href="mailto:abd.saboor02@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
